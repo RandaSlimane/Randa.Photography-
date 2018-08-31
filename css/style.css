@@ -64,7 +64,7 @@ main{
 }
 
 #landing-image{
-    background: url("https://images.unsplash.com/photo-1513295462925-667872a39d58?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=614a6c167acdeecfddf81caa1c40c319&auto=format&fit=crop&w=750&q=80");
+    background:url("../img/01.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
