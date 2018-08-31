@@ -64,7 +64,7 @@ main{
 }
 
 #landing-image{
-    background:url("../img/01.jpeg");
+    background:url("../img/01.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -153,13 +153,13 @@ footer h3 {
 }
 
 .slide1 {
-  background-image: url("https://static.pexels.com/photos/302889/pexels-photo-302889.jpeg");
+  background-image: url("../img/s01.jpg");
 }
 .slide2 {
-  background-image: url("https://static.pexels.com/photos/302892/pexels-photo-302892.jpeg");
+  background-image: url("../img/s02.jpg");
 }
 .slide3 {
-  background-image: url("https://static.pexels.com/photos/226633/pexels-photo-226633.jpeg");
+  background-image: url("../img/s03.jpg");
 }
 
 .slide-content {
